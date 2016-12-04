@@ -1,0 +1,19 @@
+{
+  "name": "worlds",
+  "version": "1.0.0",
+  "description": "web vr exploration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atj1979/worlds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atj1979/worlds/issues"
+  },
+  "homepage": "https://github.com/atj1979/worlds#readme"
+}
